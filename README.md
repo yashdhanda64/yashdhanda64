@@ -3,25 +3,30 @@
 <!-- ======================================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Hi%20there!%20%F0%9F%91%8B&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1f6feb,65:8957e5,100:0d1117&height=230&section=header&text=Hi%20there!%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <h1>I'm Yash Dhanda</h1>
+  <h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34" alt="Waving Hand" />
+    &nbsp;I'm Yash Dhanda
+  </h1>
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+Developer;Advanced+Python+%26+Web+Developer;Building+Scalable+Modern+Applications;Hackathon+Builder+%26+Tech+Enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=620&lines=Software+Developer;Advanced+Python+%26+Modern+Web+Developer;Building+Scalable+Full--Stack+Applications;Turning+Ideas+Into+Impactful+Code;Open+to+Hackathons+%26+Collaborations" alt="Typing SVG" />
     </a>
   </p>
 
   <p>
-    <a href="https://github.com/yashdhanda64">
-      <img src="https://img.shields.io/badge/GitHub-yashdhanda64-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" />
+    <a href="https://github.com/yashdhanda64" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-yashdhanda64-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
     </a>
-    <a href="https://www.linkedin.com/in/yash-dhanda-210a603b5/">
-      <img src="https://img.shields.io/badge/LinkedIn-Yash_Dhanda-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    &nbsp;
+    <a href="https://www.linkedin.com/in/yash-dhanda-210a603b5/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Yash_Dhanda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=yashdhanda64&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=yashdhanda64&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
@@ -172,6 +177,6 @@ Let's connect and build something impactful together! Feel free to explore my re
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1f6feb,65:8957e5,100:0d1117&height=120&section=footer" width="100%" alt="Footer Banner" />
   <p align="center"><i>Designed with passion & precision for clean code and open-source innovation.</i></p>
 </div>
