@@ -98,20 +98,27 @@ Welcome to my GitHub profile! I am an aspiring **Software Developer** dedicated 
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yashdhanda64&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="410" alt="Yash Dhanda's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdhanda64&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="370" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://github.com/yashdhanda64">
+      <img src="https://github-readme-stats.vercel.app/api?username=yashdhanda64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Yash Dhanda's GitHub Stats" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/yashdhanda64">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdhanda64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+    </a>
+  </p>
 
-  <br />
+  <p align="center">
+    <a href="https://github.com/yashdhanda64">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdhanda64&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
+    </a>
+  </p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdhanda64&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="790" alt="GitHub Streak Stats" />
+  <p align="center">
+    <a href="https://github.com/yashdhanda64">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashdhanda64&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF" width="100%" alt="Yash Dhanda's Contribution Graph" />
+    </a>
+  </p>
 </div>
 
 ---
